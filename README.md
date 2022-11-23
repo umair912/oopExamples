@@ -1,8 +1,9 @@
-#### objects.js
-this shows basic objects as object literals in javascript.
-
-#### construter.js
-this shows basic function and how to initiate an object with it.
-
 ### Command to run code
 node <filename>
+e.g node 1_Objects.js
+
+### Description
+Basic method of Javascript Object Oriented Programing examples are available in this repository.
+
+### Sequence to learn
+Examples are marked with numbers starting from 1 to onwards to make it easy to find these examples
